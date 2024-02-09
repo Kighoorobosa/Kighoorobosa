@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Hi my name is Kigho Orobosa Enrique 👋
+#### ** I am an Access Control Engineer
+I'm currently working on Data Analytics
+I'm currently learning Dashboard creation using Excel
 <!--
 **Kighoorobosa/Kighoorobosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
