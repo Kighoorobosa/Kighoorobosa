@@ -1,7 +1,9 @@
 # Hi my name is Kigho Orobosa Enrique 👋
-#### ** I am an Access Control Engineer
-I'm currently working on Data Analytics
-I'm currently working on a dashboard for a marketing department
+#### ** Welcome to my GitHub profile!
+Geologist turned infrastructure engineer and data analyst.
+Passionate about optimizing processes and deriving insights from data. 
+Blend of geological expertise and engineering mindset.
+Let's collaborate and innovate together!
 <!--
 **Kighoorobosa/Kighoorobosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
